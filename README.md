@@ -20,5 +20,5 @@ Link: https://github.com/pranshu200/Face-Recognition-and-Attendance-monitoring-s
 # Techniques used:
 1. HOG (Histogram of Oriented Gradients) algorithm for finding faces.<br>
 2. Generate Facial landmarks for faces posing and projected at different angles.<br>
-3. 128 different measurements of a image generated. using these measurements we can define a person, and differentiate between people as well.<br>
+3. 128 different measurements of a image generated. using these measurements we can define a person, and differentiate b/w people as well.<br>
 4. Last step to differentiate them and get names (used linear SVM classifier.)<br>
